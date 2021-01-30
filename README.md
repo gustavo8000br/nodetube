@@ -14,7 +14,7 @@ You can join the open-source community actively developing NodeTube on [Discord]
 
 You can get an instance up instantly using one-click deployment with Heroku below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mayeaux/nodetube)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/gustavo8000br/nodetube)
 
 ## Running On Your Local Computer
 
