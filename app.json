@@ -12,7 +12,7 @@
   "addons": [
     "papertrail",
     "heroku-redis",
-    "mongolab"
+    "ormongo"
   ],
   "env": {
     "NODE_ENV": {
