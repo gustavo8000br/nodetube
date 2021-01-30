@@ -12,7 +12,7 @@
   "addons": [
     "papertrail",
     "heroku-redis",
-    "ormongo"
+    "ormongo:2-wt"
   ],
   "env": {
     "NODE_ENV": {
